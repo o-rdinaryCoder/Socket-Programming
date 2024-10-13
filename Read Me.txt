@@ -2,5 +2,5 @@ Run the server script in a terminal
 Run the client script in another terminal
 Enjoy!
 
-Note: Both the server and client scripts are programmed to run only on the same machine (i.e., no use of internet)
+Note: Both the server and client scripts are programmed to run only on the same machine (i.e., the script is set to work within a localhost)
  
